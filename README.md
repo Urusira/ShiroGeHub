@@ -1,3 +1,19 @@
+## О репозитории
+Лаунчер для собственных игр. Является частью дипломного проекта - [Tanmachi](https://github.com/Urusira/Tanmachi). Также лаунчер включает в себя старую курсовую работу за 2-й курс - Cursedovaya.
+
+## Коротко об играх:
+- **Tanmachi** - игра, вдохновлённая ранобэ _DanMachi_ и игрой _Tavern Manager Simulator_. В данный момент разрабатывается.
+- **Cursedovaya** - попытка неопытного тогда студента ещё 2-го курса воссоздать геймплей Vampire Survivors с закосом на HoloCure.
+
+## Авторство
+Лаунчер является форком оригинального лаунчера [электрон](https://github.com/gustavokei/electron-game-updater) за авторством [gustavokei](https://github.com/gustavokei).
+Форк, содержащиеся игры и доработка лаунчера - [Urusira](https://github.com/Urusira).
+<br>
+<hr>
+<br>
+<details>
+<summary>Инструкция к перенастройке лаунчера (readme оригинала)</summary>
+  
 # Electron Game Updater
 
 ![app image](https://i.imgur.com/s46N0y2.gif)
@@ -173,3 +189,4 @@ Users are encouraged to open issues for any bugs or feature requests and to subm
 
 This project is licensed under the MIT License, which allows you to use, modify, and distribute the software freely, as long as the original license and copyright notice are included in any copies or substantial portions of the software.
 
+</details>
