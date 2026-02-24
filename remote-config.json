@@ -1,0 +1,28 @@
+{
+  "launcherVer": 2,
+  "launcherUrl": "https://github.com/Urusira/Tanmachi/releases/download/Release-v1.0.0/ShiroGeHub.exe",
+  "games": [
+    {
+      "name": "tanmachi",
+      "startCmd": "start Tanmachi.exe",
+      "clientVer": 1,
+      "clientUrl": "https://github.com/Urusira/Tanmachi/releases/download/DevBuild-v240226049/Tanmachi-DevBuild-v240226049.7z",
+      "patchUrls": [],
+      "maintenance": false,
+      "voicePacks": [
+        {
+          "value": "EN",
+          "label": "English"
+        }
+      ]
+    },
+    {
+      "name": "cursedovaya",
+      "startCmd": "start Cursedovaya.exe",
+      "clientVer": 1,
+      "clientUrl": "https://github.com/Urusira/Cursedovaya/releases/download/Build-v2402261105/Cursedovaya-Build-v2402261105.7z",
+      "patchUrls": [],
+      "maintenance": true
+    }
+  ]
+}

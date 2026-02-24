@@ -55,12 +55,12 @@ body {
       cursor: pointer;
       position: relative;
 
-      &.gc {
-        background-image: url("./assets/logo-gc.svg");
+      &.tanmachi {
+        background-image: url("./assets/logo-tan.svg");
       }
 
-      &.es {
-        background-image: url("./assets/logo-es.svg");
+      &.cursedovaya {
+        background-image: url("./assets/logo-curs.svg");
       }
 
       &.selected {
@@ -96,12 +96,12 @@ body {
       background-size: cover;
       display: none;
 
-      &.gc {
-        background-image: url("./assets/bg-gc.jpg");
+      &.tanmachi {
+        background-image: url("./assets/bg-tan.jpg");
       }
 
-      &.es {
-        background-image: url("./assets/bg-es.jpg");
+      &.cursedovaya {
+        background-image: url("./assets/bg-curs.jpg");
       }
 
       &.active {

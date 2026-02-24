@@ -1,8 +1,10 @@
+import ruMessages from '../locales/ru.json';
 import enMessages from '../locales/en.json';
 import ptMessages from '../locales/pt.json';
 import twMessages from '../locales/tw.json';
 
 const messages = {
+  ru: ruMessages,
   en: enMessages,
   pt: ptMessages,
   tw: twMessages,
