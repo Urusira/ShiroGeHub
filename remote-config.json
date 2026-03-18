@@ -1,12 +1,12 @@
 {
-  "launcherVer": 3,
-  "launcherUrl": "https://github.com/Urusira/ShiroGeHub/releases/download/Release-v1.0.0/ShiroGeHub.exe",
+  "launcherVer": 4,
+  "launcherUrl": "https://github.com/Urusira/ShiroGeHub/releases/latest/download/ShiroGeHub.exe",
   "games": [
     {
       "name": "tanmachi",
       "startCmd": "start Tanmachi.exe",
-      "clientVer": 1,
-      "clientUrl": "https://github.com/Urusira/Tanmachi/releases/download/DevBuild-v240226049/Tanmachi-DevBuild-v240226049.7z",
+      "clientVer": 2,
+      "clientUrl": "https://github.com/Urusira/Tanmachi/releases/latest/download/TanmachiClient.7z",
       "patchUrls": [],
       "maintenance": false,
       "voicePacks": [
