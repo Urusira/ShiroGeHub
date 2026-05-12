@@ -5,7 +5,7 @@
     {
       "name": "tanmachi",
       "startCmd": "start Tanmachi.exe",
-      "clientVer": 4,
+      "clientVer": 5,
       "clientUrl": "https://github.com/Urusira/Tanmachi/releases/latest/download/TanmachiClient.7z",
       "patchUrls": [],
       "maintenance": false,
