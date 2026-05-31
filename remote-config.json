@@ -5,8 +5,8 @@
     {
       "name": "tanmachi",
       "startCmd": "start Tanmachi.exe",
-      "clientVer": 23,
-      "clientUrl": "https://github.com/Urusira/Tanmachi/releases/latest/download/TanmachiClient.DevBuild.v310526-2325.7z",
+      "clientVer": 24,
+      "clientUrl": "https://github.com/Urusira/Tanmachi/releases/latest/download/TanmachiClient.DevBuild.v010626-122.7z",
       "patchUrls": [],
       "maintenance": false,
       "voicePacks": [
