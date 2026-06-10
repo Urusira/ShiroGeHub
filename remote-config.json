@@ -8,7 +8,7 @@
       "clientVer": 100,
       "clientUrl": "https://github.com/Urusira/Tanmachi/releases/latest/download/TanmachiClient.Alpha.0.0.1-rd.7z",
       "patchUrls": [],
-      "maintenance": true,
+      "maintenance": false,
       "voicePacks": [
         {
           "value": "EN",
