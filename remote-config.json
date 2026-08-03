@@ -18,7 +18,7 @@
     },
     {
       "name": "metamorphosislove",
-      "startCmd": "start The Pseudomorphosis of Love.exe",
+      "startCmd": "start ThePseudomorphosisOfLove.exe",
       "clientVer": 1,
       "clientUrl": "https://github.com/Urusira/The-Pseudomorphosis-of-Love/releases/latest/download/The.Pseudomorphosis.of.Love.PreStart.v0.0.1.7z",
       "patchUrls": [],
