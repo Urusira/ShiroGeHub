@@ -1,12 +1,26 @@
 {
-  "launcherVer": 4,
+  "launcherVer": 5,
   "launcherUrl": "https://github.com/Urusira/ShiroGeHub/releases/latest/download/ShiroGeHub.exe",
   "games": [
     {
       "name": "tanmachi",
       "startCmd": "start Tanmachi.exe",
-      "clientVer": 3,
-      "clientUrl": "https://github.com/Urusira/Tanmachi/releases/latest/download/TanmachiClient.7z",
+      "clientVer": 109,
+      "clientUrl": "https://github.com/Urusira/Tanmachi/releases/latest/download/TanmachiClient.Alpha.0.0.1-rd08.7z",
+      "patchUrls": [],
+      "maintenance": false,
+      "voicePacks": [
+        {
+          "value": "EN",
+          "label": "English"
+        }
+      ]
+    },
+    {
+      "name": "metamorphosislove",
+      "startCmd": "start The Pseudomorphosis of Love.exe",
+      "clientVer": 1,
+      "clientUrl": "https://github.com/Urusira/The-Pseudomorphosis-of-Love/releases/latest/download/The.Pseudomorphosis.of.Love.PreStart.v0.0.1.7z",
       "patchUrls": [],
       "maintenance": false,
       "voicePacks": [
